@@ -1,0 +1,6 @@
+/Users/tobiasengberg/Projects/HangmanVersionTobias/obj/Debug/HangmanVersionTobias.csproj.AssemblyReference.cache
+/Users/tobiasengberg/Projects/HangmanVersionTobias/obj/Debug/HangmanVersionTobias.csproj.CoreCompileInputs.cache
+/Users/tobiasengberg/Projects/HangmanVersionTobias/bin/Debug/HangmanVersionTobias.exe
+/Users/tobiasengberg/Projects/HangmanVersionTobias/bin/Debug/HangmanVersionTobias.pdb
+/Users/tobiasengberg/Projects/HangmanVersionTobias/obj/Debug/HangmanVersionTobias.exe
+/Users/tobiasengberg/Projects/HangmanVersionTobias/obj/Debug/HangmanVersionTobias.pdb
